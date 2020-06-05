@@ -9,4 +9,4 @@ use init.m script
 
 run model in simulink
 
-![Image alt](https://github.com/{d00m1r}/{s_fun}/origin/pendulum.png)
+![Image alt](https://github.com/d00m1r/s_fun/blob/master/pendulum.png)
